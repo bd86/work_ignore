@@ -7,3 +7,4 @@ _notes
 composer.json
 /vendor/
 /.ssh/
+sftp-config.json
