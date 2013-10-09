@@ -4,7 +4,6 @@
 *.xml
 *.zip
 _notes
-composer.json
 /vendor/
 /.ssh/
 sftp-config.json
